@@ -1,31 +1,31 @@
 # Java8-problem-solving
 
 
-**Separate odd and even numbers in a list of integers**
+1. **Separate odd and even numbers in a list of integers**
 
 Given a list of integers, write a Java 8 program to separate the odd and even numbers into two separate lists.
 
-**Remove duplicate elements from a list using Java 8 streams**
+2. **Remove duplicate elements from a list using Java 8 streams**
 
 Write a Java 8 program to remove duplicate elements from a list using the stream API and lambda expressions.
 
-**Find the frequency of each character in a string using Java 8 streams**
+3. **Find the frequency of each character in a string using Java 8 streams**
 
 Write a Java 8 program to find the frequency of each character in a given string using the stream API and collectors.
 
-**Find the frequency of each element in an array or a list**
+4. **Find the frequency of each element in an array or a list**
 
 Write a Java 8 program to find the frequency of each element in an array or a list using streams and collectors.
 
-Sort a given list of decimals in reverse order
+5. **Sort a given list of decimals in reverse order**
 
 Write a Java 8 program to sort a given list of decimal numbers in reverse order.
 
-Join a list of strings with '[' as prefix, ']' as suffix, and ',' as delimiter
+6.**Join a list of strings with '[' as prefix, ']' as suffix, and ',' as delimiter**
 
 Given a list of strings, write a Java 8 program to join the strings with '[' as a prefix, ']' as a suffix, and ',' as a delimiter.
 
-Print the numbers from a given list of integers that are multiples of 5
+7.**Print the numbers from a given list of integers that are multiples of 5**
 
 Write a Java 8 program to print the numbers from a given list of integers that are multiples of 5.
 
